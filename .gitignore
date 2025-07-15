@@ -1,0 +1,40 @@
+# Build folders
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.sln
+*.vcxproj*
+
+# Compiled binaries
+*.exe
+*.dll
+*.obj
+*.lib
+*.pdb
+*.exp
+*.app
+*.out
+*.so
+*.a
+*.o
+
+# SDL2 prebuilt binaries
+/deps/SDL2-2.32.8/lib/
+
+# Temporary files
+*.log
+*.tmp
+*.user
+*.db
+*.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Ignore by default
+*.bak 
