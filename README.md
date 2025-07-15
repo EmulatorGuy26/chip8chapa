@@ -38,7 +38,6 @@ A CHIP-8 emulator written in C++.
 - `chip8_timers.*` - Timers
 - `chip8_sound.*` - Sound
 - `config.*` - Configuration
-- `deps/SDL2-2.32.8/` - SDL2 library
 
 ## Screenshots
 
