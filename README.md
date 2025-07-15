@@ -43,12 +43,9 @@ A CHIP-8 emulator written in C++.
 
 Here are some screenshots of CHIP8CHAPA in action:
 
-![Screenshot 1](img/screenshot_20250716_001418.png)
-![Screenshot 2](img/screenshot2025-07-16 001443.png)
-![Screenshot 3](img/screenshot_20250716_001605.png)
-![Screenshot 4](img/screenshot2025-07-16 001615.png)
-![Screenshot 5](img/screenshot_20250716_002414.png)
-![Screenshot 6](img/screenshot2025-07-16 002424.png)
+![IBM Logo](img/screenshot_20250716_001418.png)
+![Brickbreaker](img/screenshot_20250716_001605.png)
+![Glitchy Ghost](img/screenshot_20250716_002414.png)
 
 ## Credits
 - SDL2: [https://www.libsdl.org/](https://www.libsdl.org/)
