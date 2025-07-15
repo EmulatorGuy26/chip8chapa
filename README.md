@@ -16,7 +16,7 @@ A CHIP-8 emulator written in C++.
 ## Building (Windows)
 1. **Clone the repository** (if you haven't already):
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/EmulatorGuy26/chip8chapa
    cd CHIP8CHAPA
    ```
 2. **Configure the project with CMake:**
