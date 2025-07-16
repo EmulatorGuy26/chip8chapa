@@ -2,7 +2,7 @@
 
 # CHIP8CHAPA
 
-A CHIP-8 emulator written in C++.
+A CHIP-8/SUPER-CHIP/XO-CHIP emulator written in C++.
 
 ## Features
 - Emulates the classic CHIP-8 virtual machine
